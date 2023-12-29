@@ -221,7 +221,7 @@ configuration file for the workspace:
   "workspaces": [
      "a",
      "b"
-  },
+  ],
   "imports": {
     "express": "npm:express@5"
    }
